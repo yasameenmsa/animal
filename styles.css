@@ -1,0 +1,43 @@
+/* add your CSS here */
+.card-container {
+    width: 300px; /* Adjust the width as needed */
+    height: auto;
+    border: 2px solid #d4d4d4
+    ;
+    padding: 10px;
+    box-shadow: 4px 4px 8px #6e6b6b;
+    display: inline-block;
+    margin-right: 10px;
+
+  }
+	.container {
+		display: flex;
+		justify-content: space-between 5px;
+		height: 100%; /* Adjust this value as needed */
+	}
+ul {
+  list-style-type:none;
+}
+.card-image {
+    padding-bottom: 5px;
+    padding: auto;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+   
+  }
+
+#intrestingfact {
+    font-family: italic;
+    font-style: italic;
+ }
+
+
+#smallcard {
+    border: 2px solid #d4d4d4
+    ;
+    padding: 10px;
+
+
+
+}
